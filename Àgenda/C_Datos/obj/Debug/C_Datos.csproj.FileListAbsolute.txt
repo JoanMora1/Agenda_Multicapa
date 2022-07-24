@@ -1,0 +1,9 @@
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Datos\bin\Debug\C_Datos.dll
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Datos\bin\Debug\C_Datos.pdb
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Datos\bin\Debug\C_Entindad.dll
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Datos\bin\Debug\C_Entindad.pdb
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Datos\obj\Debug\C_Datos.csproj.AssemblyReference.cache
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Datos\obj\Debug\C_Datos.csproj.CoreCompileInputs.cache
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Datos\obj\Debug\C_Datos.csproj.CopyComplete
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Datos\obj\Debug\C_Datos.dll
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Datos\obj\Debug\C_Datos.pdb

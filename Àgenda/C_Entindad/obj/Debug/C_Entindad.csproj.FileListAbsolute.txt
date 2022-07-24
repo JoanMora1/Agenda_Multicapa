@@ -1,0 +1,6 @@
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Entindad\bin\Debug\C_Entindad.dll
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Entindad\bin\Debug\C_Entindad.pdb
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Entindad\obj\Debug\C_Entindad.csproj.AssemblyReference.cache
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Entindad\obj\Debug\C_Entindad.csproj.CoreCompileInputs.cache
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Entindad\obj\Debug\C_Entindad.dll
+C:\Users\JOSE MANUEL\source\repos\Àgenda\C_Entindad\obj\Debug\C_Entindad.pdb
